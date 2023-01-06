@@ -6,9 +6,9 @@
 It consists of Archive,Today's Plan,This Week
 
 ### STATUS 
-      * Today's status.
+      - Today's status.
       
-      + Number of task finished
+      - Number of task finished
       * Tracked hours
       * Number of task complelted on a day.
       
