@@ -13,3 +13,9 @@ It consists of Archive,Today's Plan,This Week
       
 ### TASK SECTION
 It consits of the task for that day and its due time.
+
+
+
+
+
+[DEMO VIDEO]()
