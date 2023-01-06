@@ -7,6 +7,7 @@ It consists of Archibe,Today's Plan,This Week
 
 ### STATUS 
       * Today' status
+      
       * Number of task finished
       * Tracked hours
       * Number of task complelted on a day.
